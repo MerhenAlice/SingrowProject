@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 07e6a6cd9914c1c49aefc54632defbf6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 2
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tmoney RoundWind
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 516865479d6ef0048af57d15d78066c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
